@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Washington-Arlington-Alexandria, DC-VA-MD-WV that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in Washington-Arlington-Alexandria (Metro), DC-VA-MD-WV, US",
+  "export_job_id": "f1f82a92-81fe-4367-bb77-c6c2e7e7c13f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 186292,
+  "location_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+  "location_type": "metro",
+  "repo_name": "white-space-finder-in-washington-arlington-alexandria-metro-dc-va-md-wv-us-sample-186292",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/186292/beamstation_186292_food_and_drink-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv",
+  "sample_pct": 9.09,
+  "sample_records": 1,
+  "sample_sha256": "169fb2c7218d0d475637f0930f291a2e6593ccb72dff16c5594312fc6658c2a5",
+  "sample_size_bytes": 19502,
+  "total_records": 11,
+  "updated_at": "2026-04-07T16:32:09.817111+00:00"
+}
