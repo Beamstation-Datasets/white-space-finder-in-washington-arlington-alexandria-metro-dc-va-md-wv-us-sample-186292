@@ -1,12 +1,12 @@
 {
-  "export_job_id": "174e0901-2299-4609-87f0-46efbf95526c",
+  "export_job_id": "818ed1c9-aa28-4bb3-8bac-4e370904081b",
   "id_short": 186292,
-  "published_at": "2026-04-22T07:10:14Z",
+  "published_at": "2026-04-29T07:11:07Z",
   "repo_name": "white-space-finder-in-washington-arlington-alexandria-metro-dc-va-md-wv-us-sample-186292",
   "sample_asset_name": "beamstation_186292_food_and_drink-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/186292/beamstation_186292_food_and_drink-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "5c75699d9ab3eb33af7ad702a9c964bf92c9d4331957d1e55c402b2d0b1acaee",
-  "sample_size_bytes": 19848,
-  "total_records": 7
+  "sample_sha256": "f731219dc53f5f42d170cbd8558539a36e9b30cc09e194ceac9e649c66e3c3b6",
+  "sample_size_bytes": 19878,
+  "total_records": 9
 }
